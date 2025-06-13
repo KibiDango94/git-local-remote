@@ -1,2 +1,2 @@
 # Project Git by Siwat
-## Welcome to Git of [Siwat]S
+## Welcome to Git of [Siwat]
